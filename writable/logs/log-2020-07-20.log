@@ -1,0 +1,300 @@
+CRITICAL - 2020-07-20 22:36:39 --> Too few arguments to function App\Controllers\Principal::Principal(), 0 passed in E:\Projects\Autopartes\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 22:36:42 --> Too few arguments to function App\Controllers\Principal::Principal(), 0 passed in E:\Projects\Autopartes\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 22:36:45 --> Too few arguments to function App\Controllers\Principal::Principal(), 0 passed in E:\Projects\Autopartes\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 22:37:05 --> Too few arguments to function App\Controllers\Principal::Principal(), 0 passed in E:\Projects\Autopartes\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 22:39:32 --> Too few arguments to function App\Controllers\Principal::Principal(), 0 passed in E:\Projects\Autopartes\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 22:39:35 --> Too few arguments to function App\Controllers\Principal::Principal(), 0 passed in E:\Projects\Autopartes\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 23:01:30 --> Call to undefined function suma()
+#0 E:\Projects\Autopartes\system\View\View.php(246): include()
+#1 E:\Projects\Autopartes\system\Common.php(1119): CodeIgniter\View\View->render('Principal/Princ...', Array, true)
+#2 E:\Projects\Autopartes\app\Controllers\Principal.php(6): view('Principal/Princ...')
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#4 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#5 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#8 {main}
+CRITICAL - 2020-07-20 23:30:53 --> Class 'App\Models\ModPrincipal' not found
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 23:31:15 --> Class 'App\Models\ModPrincipal' not found
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 23:31:16 --> Class 'App\Models\ModPrincipal' not found
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 23:31:16 --> Class 'App\Models\ModPrincipal' not found
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 23:31:17 --> Class 'App\Models\ModPrincipal' not found
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 23:32:16 --> Class 'App\Models\ModPrincipal' not found
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 23:32:17 --> Class 'App\Models\ModPrincipal' not found
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 23:34:01 --> Class 'App\Models\ModPrincipal' not found
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 23:34:02 --> Class 'App\Models\ModPrincipal' not found
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 23:34:02 --> Class 'App\Models\ModPrincipal' not found
+#0 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#5 {main}
+CRITICAL - 2020-07-20 23:44:35 --> Class '\CodeIgniter\Database\PDO\Connection' not found
+#0 E:\Projects\Autopartes\system\Database\Config.php(115): CodeIgniter\Database\Database->load(Array, 'default')
+#1 E:\Projects\Autopartes\system\Model.php(352): CodeIgniter\Database\Config::connect('default')
+#2 E:\Projects\Autopartes\app\Controllers\Principal.php(12): CodeIgniter\Model->__construct(NULL)
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(918): App\Controllers\Principal->Principal()
+#4 E:\Projects\Autopartes\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#5 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#8 {main}
+CRITICAL - 2020-07-20 23:48:24 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:48:26 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:48:28 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:48:29 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:48:29 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:48:29 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:48:29 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:48:30 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:48:30 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:48:34 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:48:34 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:48:34 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:48:34 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:48:35 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:48:39 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:49:01 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:49:02 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:49:03 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:49:03 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:49:03 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
+CRITICAL - 2020-07-20 23:49:09 --> syntax error, unexpected '}', expecting ';'
+#0 E:\Projects\Autopartes\app\Controllers\BaseController.php(38): helper(Array)
+#1 E:\Projects\Autopartes\system\CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 E:\Projects\Autopartes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 E:\Projects\Autopartes\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Projects\Autopartes\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 E:\Projects\Autopartes\system\Commands\Server\rewrite.php(34): require_once('E:\\Projects\\Aut...')
+#6 {main}
